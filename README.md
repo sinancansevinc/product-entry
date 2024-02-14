@@ -1,8 +1,8 @@
-# Scrap-Commerce
+# ProductEntry
 
 ## Project Description
 
-Scrap-Commerce is a scraping project that extracts product information from an XML file and stores it in a MongoDB database.
+ProductEntry is a scraping project that extracts product information from an XML file and stores it in a MongoDB database.
 
 ## Getting Started
 
